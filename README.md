@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Mike Kabot, and I'm from Fort Collins, CO. I'm currently a senior Aerospace Engineering undergrad student at the California Polytechnic State University in San Luis Obispo. My concentration is astronautical engineering, and I participate in the Cal Poly CubeSat Laboratory where we work to build, test, and launch our own CubeSat missions.
+
+In my free time, I enjoy the great outdoors by camping, hiking, climbing, and surfing. I also greatly enjoy engineering outside of academics and my career, and sometimes work on my own projects at home (see my portfolio for examples), and even enjoy crafts like woodworking, film photography, and music production.
+
+
+
+
 <!--
 **mk4bot/mk4bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
