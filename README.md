@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there!
 
 I'm Mike Kabot! I'm a senior Aerospace Engineering undergrad student at the California Polytechnic State University in San Luis Obispo. My concentration is astronautical engineering, and I participate in the Cal Poly CubeSat Laboratory where we work to build, test, and launch our own CubeSat missions.
 
