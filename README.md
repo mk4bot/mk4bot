@@ -4,7 +4,7 @@ I'm Mike Kabot! I'm a senior Aerospace Engineering undergrad student at the Cali
 
 In my free time, I enjoy the great outdoors by camping, hiking, climbing, and surfing. I also greatly enjoy engineering outside of academics and my career, and sometimes work on my own projects at home (see my portfolio for examples), and even enjoy crafts like woodworking, film photography, and music production.
 
-Feel free to browse my repos to check out some of my projects or works in progress!
+Feel free to browse my repos to check out some of my projects or works in progress! Pinned below:
 
 
 
