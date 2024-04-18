@@ -1,4 +1,4 @@
-### Hey there!
+# Hey there!
 
 I'm Mike Kabot! I'm a senior Aerospace Engineering undergrad student at the California Polytechnic State University in San Luis Obispo. My concentration is astronautical engineering, and I participate in the Cal Poly CubeSat Laboratory where we work to build, test, and launch our own CubeSat missions.
 
@@ -6,6 +6,9 @@ In my free time, I enjoy the great outdoors by camping, hiking, climbing, and su
 
 Feel free to browse my repos to check out some of my projects or works in progress! Pinned below:
 
+## WIPs:
+\\ Full 6DOF launch vehicle control simulation
+\\ Attitude determination using norm-constrained linear Kalman Filter
 
 
 
