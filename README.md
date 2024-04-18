@@ -8,6 +8,7 @@ Feel free to browse my repos to check out some of my projects or works in progre
 
 ## WIPs:
 \\ Full 6DOF launch vehicle control simulation
+
 \\ Attitude determination using norm-constrained linear Kalman Filter
 
 
