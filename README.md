@@ -11,7 +11,7 @@ Feel free to browse my repos to check out some of my projects or works in progre
 
 \\ Attitude determination using norm-constrained linear Kalman Filter
 
-\\ Arduino-based inverted pendulum with cold-gas thrusters (super early stages, just planning right now)
+\\ Arduino-based inverted pendulum actuated with cold-gas thrusters (super early stages, just planning right now)
 
 
 
