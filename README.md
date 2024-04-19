@@ -6,7 +6,7 @@ In my free time, I enjoy the great outdoors by camping, hiking, climbing, and su
 
 Feel free to browse my repos to check out some of my projects or works in progress! Pinned below:
 
-## WIPs (still working on code):
+## WIPs (still working on code/projects):
 \\ Full 6DOF launch vehicle control simulation
 
 \\ Attitude determination using norm-constrained linear Kalman Filter
