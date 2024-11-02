@@ -1,19 +1,10 @@
 # Hey there!
 
-I'm Mike Kabot! I'm a senior Aerospace Engineering undergrad student at the California Polytechnic State University in San Luis Obispo. My concentration is astronautical engineering, and I participate in the Cal Poly CubeSat Laboratory where we work to build, test, and launch our own CubeSat missions.
+I'm Mike Kabot! I'm an Aerospace Engineering B.S. grad from Cal Poly San Luis Obispo. My concentration is in astronautical engineering, and I participated in the Cal Poly CubeSat Laboratory where we worked to build, test, and launch our own CubeSat missions.
 
 In my free time, I enjoy the great outdoors by camping, hiking, climbing, and surfing. I also greatly enjoy engineering outside of academics and my career, and sometimes work on my own projects at home (see my portfolio for examples), and even enjoy crafts like woodworking, film photography, and music production.
 
 Feel free to browse my repos to check out some of my projects or works in progress! Pinned below:
-
-## WIPs (still working on code/projects):
-\\ Full 6DOF launch vehicle control simulation
-
-\\ Attitude determination using norm-constrained linear Kalman Filter
-
-\\ Arduino-based inverted pendulum actuated with cold-gas thrusters (super early stages, just planning right now)
-
-
 
 <!--
 **mk4bot/mk4bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
